@@ -1,0 +1,7 @@
+[[language]]
+name = "python"
+auto-format = true
+
+[language-server.pylsp.config.pylsp]
+plugins.black.enabled = true
+plugins.flake8.enabled = true

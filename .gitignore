@@ -1,4 +1,13 @@
 *
-
 !.gitignore
+
+# Git
 !.gitconfig
+
+# Config
+!.config/
+
+## Helix
+!.config/helix/
+!.config/helix/config.toml
+!.config/helix/languages.toml
