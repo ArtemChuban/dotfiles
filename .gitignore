@@ -4,6 +4,9 @@
 # Git
 !.gitconfig
 
+# zsh
+!.zshrc
+
 # Config
 !.config/
 
