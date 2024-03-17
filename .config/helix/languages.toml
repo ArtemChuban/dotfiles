@@ -5,3 +5,8 @@ auto-format = true
 [language-server.pylsp.config.pylsp]
 plugins.black.enabled = true
 plugins.flake8.enabled = true
+
+[[language]]
+name = "markdown"
+auto-format = true
+formatter = { command = "bash", args = ["-c", "dprint fmt --config ~/.config/dprint/dprint.json --stdin md"] }
