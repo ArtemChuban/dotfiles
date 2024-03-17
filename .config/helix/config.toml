@@ -1,2 +1,27 @@
-[editor.file-picker]
-git-ignore = false
+theme = "zed_onedark"
+
+[editor]
+line-number = "relative"
+
+[editor.statusline]
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+[editor.lsp]
+display-inlay-hints	= true
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.whitespace.render]
+space = "all"
+nbsp = "all"
+tab = "all"
+newline = "none"
+
+[editor.indent-guides]
+render = true
+
+[editor.soft-wrap]
+enable = true
