@@ -11,4 +11,5 @@ I'm using:
 - [**zoxide**](https://github.com/ajeetdsouza/zoxide) for faster `cd`
 - **tmux** as terminal multiplexer
 - **helix** as text editor
+- **lazygit** as terminal UI for git
 - **dprint** as markdown formatter
