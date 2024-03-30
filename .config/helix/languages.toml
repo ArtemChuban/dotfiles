@@ -10,3 +10,11 @@ plugins.flake8.enabled = true
 name = "markdown"
 auto-format = true
 formatter = { command = "bash", args = ["-c", "dprint fmt --config ~/.config/dprint/dprint.json --stdin md"] }
+
+[[language]]
+name = "cpp"
+auto-format = true
+
+[[language]]
+name = "c"
+auto-format = true
