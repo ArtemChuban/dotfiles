@@ -13,3 +13,4 @@ I'm using:
 - **helix** as text editor
 - **lazygit** as terminal UI for git
 - **dprint** as markdown formatter
+- **exa** instead of `ls`
