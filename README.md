@@ -9,7 +9,7 @@ I'm using:
       - [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting)
       - [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions)
 - [**zoxide**](https://github.com/ajeetdsouza/zoxide) for faster `cd`
-- **tmux** as terminal multiplexer
+- [**zellij**](https://zellij.dev) as terminal multiplexer
 - **helix** as text editor
 - **lazygit** as terminal UI for git
 - **dprint** as markdown formatter

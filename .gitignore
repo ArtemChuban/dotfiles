@@ -16,10 +16,6 @@
 !.config/helix/config.toml
 !.config/helix/languages.toml
 
-## Tmux
-!.config/tmux
-!.config/tmux/tmux.conf
-
 ## dprint
 !.config/dprint
 !.config/dprint/dprint.json
