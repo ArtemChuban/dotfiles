@@ -2,9 +2,13 @@
 name = "python"
 auto-format = true
 
-[language-server.pylsp.config.pylsp]
-plugins.black.enabled = true
-plugins.flake8.enabled = true
+[language-server.pylsp.config.pylsp.plugins]
+black.enabled = true
+flake8.enabled = true
+mypy.enabled = true
+isort.enabled = true
+rope.enabled = true
+ruff.enabled = true
 
 [[language]]
 name = "markdown"
